@@ -1,0 +1,10 @@
+{
+    "nama": "Nathan",
+    "umur": 20,
+    "nrp": "183040023",
+    "lulus" :true,
+    "Hobby" : [
+        "Gaming",
+        "Reading"
+    ]
+}
